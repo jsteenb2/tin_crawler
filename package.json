@@ -1,0 +1,25 @@
+{
+  "name": "tin_crawler",
+  "version": "0.0.1",
+  "description": "A web crawler that scales the recipetineats.com recipe selections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsteenb2/tin_crawler.git"
+  },
+  "keywords": [
+    "Web",
+    "crawler",
+    "and",
+    "recipes"
+  ],
+  "author": "Johnny Steenbergen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsteenb2/tin_crawler/issues"
+  },
+  "homepage": "https://github.com/jsteenb2/tin_crawler#readme"
+}
